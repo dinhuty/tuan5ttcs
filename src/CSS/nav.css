@@ -1,0 +1,38 @@
+.nav{
+    width: 1200px;
+    height: 50px;
+    z-index: 9999;
+    position: fixed;
+    background-color: dodgerblue;
+    padding: 0 50px;
+   
+    
+}
+.nav>ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav a:hover{
+    color: black;
+}
+.logo{
+    width: auto;
+    height: 50px;
+    cursor: pointer;
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+
+}
+.ll{
+    display: flex;
+}
+.l2{
+    padding: 0 5px;
+}
+.ll>p{
+    color: white;
+}

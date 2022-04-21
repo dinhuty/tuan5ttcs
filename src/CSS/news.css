@@ -1,0 +1,24 @@
+.news-list{
+    width: 100%;
+    
+}
+.news-item{
+    margin-bottom: 20px;
+    height: 80px;
+}
+.news-title{
+    font-size: 18px;
+    margin-bottom: 20px;
+
+    
+}
+.news-desc{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: rgb(180, 180, 180);
+}
+.content{
+    margin-left: 10px;
+    font-size: 14px;
+}

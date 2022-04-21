@@ -1,0 +1,91 @@
+.detail-title{
+    margin-bottom: 50px;
+}
+.detail{
+    width: 100%;
+    display: flex;
+
+}
+.detail-tq{
+    width: 50%;
+}
+.detai-produc-img{
+    width: 70%;
+}
+.detail-ct{
+    width: 50%;
+}
+.detail-product-color{
+    border: 1px solid #e0e0e0;
+    border-radius: 2px;
+    min-width: 67px;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 15px;
+    background-color: white;
+}
+.detai-product-title{
+    color: #333;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.detai-product-price{
+    margin-bottom: 10px;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.detail-table{
+   width: 100%; 
+}
+.detail-button{
+    display: flex;
+    width: 100%;
+}
+.b-buy , .b-order{
+    width: 50%;
+    height: 40px;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    margin: 30px 10px;
+    cursor: pointer;
+
+}
+.detail-ch{
+    margin-top: 15px;
+    display: flex;
+}
+.detail-product-color{
+    margin-right: 10px;
+    cursor: pointer;
+}
+.ac{
+    border-color: #2f80ed;
+    color: #2f80ed;
+}
+.b-buy{
+    background-color: #2f80ed;
+}
+.b-order{
+    background-color: #fb6e2e;
+}
+.b-h:hover{
+    opacity: 0.7;
+}
+/* .ct-tr{
+    width: 100%;
+} */
+/* manhinh: 'OLED6.7"Super Retina XDR',
+hdh: 'iOS 15',
+camera:'3 camera 12 MP',
+chip:'Apple A14 Bionic',
+ram:'6 GB',
+rom: '256 GB',
+sim:'1 Nano SIM & 1 eSIMHỗ trợ 5G',
+pin:'1 Nano SIM & 1 eSIMHỗ trợ 5G' */
